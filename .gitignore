@@ -223,3 +223,14 @@ __marimo__/
 !.env.example
 __pycache__/
 *.pyc
+
+data/
+uploads/
+uplods/
+chroma_db/
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
