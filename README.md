@@ -1,4 +1,4 @@
-🤖 MethzAI — End-to-End Agentic AI Chatbot
+# 🤖 MethzAI — End-to-End Agentic AI Chatbot
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?logo=langchain&logoColor=white" alt="LangChain">
